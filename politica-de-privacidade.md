@@ -90,7 +90,7 @@ Nos termos da Lei Geral de Proteção de Dados, o usuário pode:
 
 O usuário poderá solicitar a exclusão de sua conta e dos dados associados.
 
-A solicitação pode ser realizada através de:
+A solicitação pode ser realizada através de: https://github.com/gustavoacape/politicas-react-native-store/blob/main/exclusao-dados.md
 
 Os dados serão excluídos em prazo razoável, salvo obrigação legal.
 
