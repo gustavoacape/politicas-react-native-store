@@ -1,0 +1,1 @@
+# politicas-react-native-store
